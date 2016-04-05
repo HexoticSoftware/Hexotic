@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Hexotic\Events;
 
 abstract class Event
 {

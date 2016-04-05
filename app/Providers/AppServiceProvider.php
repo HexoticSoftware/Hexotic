@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Hexotic\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
