@@ -1,0 +1,30 @@
+body
+{
+    background-color:#eeeeee;
+    text-align:center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+a
+{
+    color:#383838;
+    font-weight:900;
+}
+
+.softwareContainer
+{
+    display:inline-block;
+    width:250px;
+    height:200px;
+    background-color:#ffffff;
+    border:1px solid #dadada;
+    margin:4px;
+    padding:5px;
+    font-size:14px;
+    font-weight:900;
+}
+
+.softwareContainer:hover
+{
+    background-color:#f4f4f4;
+}
